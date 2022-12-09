@@ -45,6 +45,6 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 - [Live Frontend](https://pawfinder-web.netlify.app/)
 
 ### Frontend Repository Link
-- [PawFinder Frontend](https://github.com/nelsonmutindamwanzia/pawfinder-frontend)
+- [PawFinder Frontend](https://github.com/saidsoud72/phase-4-projects-pawfinder-frontend)
 
 # PawFinder by Said Soud Omar
