@@ -15,7 +15,7 @@
 1. Add a serializer for displaying nested dogs information
 
 ### Copyright and License (MIT)
-Copyright (c) 2022 Mwanzia Nelson Mutinda
+Copyright (c) 2022 Soud Omar Said
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
