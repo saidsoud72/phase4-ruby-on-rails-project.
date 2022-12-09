@@ -1,5 +1,5 @@
 # PawFinder
-## Author: Mwanzia Nelson Mutinda
+## Author: Said Soud Omar
 ### General Information
 **PawFinder** Is a web application that aims to make the process of searching for lost pets easier and rid distraught pet owners of unnecessary burdens. PawFinder uses a RESTful API that allows its users to post their missing pets and delete the posts after finding them.
 ### Technologies/Features 
