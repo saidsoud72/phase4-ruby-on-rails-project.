@@ -37,8 +37,8 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Contact
-- [Nelson Mutinda](https://github.com/nelsonmutindamwanzia)
-- nmutinda02@gmail.com
+- [Said Soud Omar](https://github.com/saidsoud72)
+- saidsoud72@gmail.com
 
 ### Live Backend End-Point Link
 - [Live Backend](https://paw-finder-production.up.railway.app/). Sample endpoints are `/dogs` and `/users`.
