@@ -7,7 +7,7 @@ class PostsController < ApplicationController
     def create 
         post = Post.create(post_params)
         render json: post, status: :created
-    end
+    end 
 
     def destroy
         post = find_post
