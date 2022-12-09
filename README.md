@@ -47,4 +47,4 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ### Frontend Repository Link
 - [PawFinder Frontend](https://github.com/nelsonmutindamwanzia/pawfinder-frontend)
 
-# PawFinder by Mwanzia Nelson Mutinda
+# PawFinder by Said Soud Omar
