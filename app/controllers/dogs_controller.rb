@@ -8,6 +8,7 @@ class DogsController < ApplicationController
         render json: dog
     end
 
+    
     def create
         dog = Dog.create!(dog_params) 
         render json: dog, status: :created
