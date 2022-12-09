@@ -3,4 +3,4 @@ namespace :assets do
     task :precompile do
         puts "This is a fake Assets Rake"
     end
-end
+end 
